@@ -1,4 +1,6 @@
 arkanoid
 ========
 
-traditional break-bricks
+traditional break-bricks for linux
+Compile: g++ -g arkanoid.cpp `allegro-config --libs`
+and execute a.out
